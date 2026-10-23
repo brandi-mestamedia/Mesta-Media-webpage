@@ -1,0 +1,30 @@
+title: Mesta Media
+tagline: Business Development and Brand Partnerships
+url: "https://mestamedia.com"
+baseurl: ""
+lang: en_US
+description: "Independent business development, brand partnerships, positioning, and practical AI support by Brandi Mesta."
+author:
+  name: Brandi Mesta
+logo: /assets/logo.png
+plugins:
+  - jekyll-seo-tag
+include:
+  - index.html.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/logo.png
+        width: 1020
+        height: 258
+        alt: Mesta Media
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - scripts
+  - vendor
+  - .github
+  - .gitignore

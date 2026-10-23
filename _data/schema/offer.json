@@ -1,0 +1,116 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://mestamedia.com/#organization",
+      "name": "Mesta Media",
+      "legalName": "Mesta Media Consulting",
+      "url": "https://mestamedia.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://mestamedia.com/assets/logo.png"
+      },
+      "founder": {
+        "@id": "https://mestamedia.com/#brandi-mesta"
+      },
+      "email": "brandi@mestamedia.com",
+      "telephone": "+1-805-265-0069"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://mestamedia.com/#brandi-mesta",
+      "name": "Brandi Mesta",
+      "url": "https://mestamedia.com/#about",
+      "image": "https://mestamedia.com/assets/brandi-mesta.png",
+      "jobTitle": "Founder",
+      "worksFor": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/brandi-mesta-008b5a1b4/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mestamedia.com/#website",
+      "url": "https://mestamedia.com/",
+      "name": "Mesta Media",
+      "publisher": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://mestamedia.com/what-i-offer/#webpage",
+      "url": "https://mestamedia.com/what-i-offer/",
+      "name": "Business Development & Marketing Services | Mesta Media",
+      "description": "Business development, partnership growth, B2B positioning, sales materials, and practical AI support from Brandi Mesta at Mesta Media.",
+      "isPartOf": {
+        "@id": "https://mestamedia.com/#website"
+      },
+      "about": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "author": {
+        "@id": "https://mestamedia.com/#brandi-mesta"
+      },
+      "inLanguage": "en-US",
+      "mainEntity": [
+        {
+          "@id": "https://mestamedia.com/what-i-offer/#business-development"
+        },
+        {
+          "@id": "https://mestamedia.com/what-i-offer/#partnerships"
+        },
+        {
+          "@id": "https://mestamedia.com/what-i-offer/#positioning"
+        },
+        {
+          "@id": "https://mestamedia.com/what-i-offer/#ai-digital"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mestamedia.com/what-i-offer/#business-development",
+      "name": "Business development support",
+      "description": "Prospect research, outreach, discovery conversations, proposals, and negotiation for publishers, event companies, and marketing businesses.",
+      "provider": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "url": "https://mestamedia.com/what-i-offer/"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mestamedia.com/what-i-offer/#partnerships",
+      "name": "Partnership & account growth",
+      "description": "Partnership development, account expansion, and renewal recommendations.",
+      "provider": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "url": "https://mestamedia.com/what-i-offer/"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mestamedia.com/what-i-offer/#positioning",
+      "name": "Positioning & sales materials",
+      "description": "B2B messaging, presentations, media kits, proposal frameworks, and interactive HTML proposals.",
+      "provider": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "url": "https://mestamedia.com/what-i-offer/"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://mestamedia.com/what-i-offer/#ai-digital",
+      "name": "Practical AI & digital support",
+      "description": "Prompts, repeatable workflows, information organization, and HTML materials supporting business teams.",
+      "provider": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "url": "https://mestamedia.com/what-i-offer/"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{%- comment -%}
+Jekyll SEO Tag 2.8 generates metadata and a generic JSON-LD script.
+Keep its metadata; replace the generic script with our linked entity graph.
+Validation requires exactly one application/ld+json script per built page.
+{%- endcomment -%}
+{%- capture generated_seo -%}{% seo %}{%- endcapture -%}
+{{ generated_seo | split: '<script type="application/ld+json">' | first }}
+<!-- End Jekyll SEO metadata -->
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="alternate" type="text/markdown" href="{{ page.markdown_url | absolute_url }}" title="Markdown version">
+<link rel="describedby" href="{{ '/llms.txt' | absolute_url }}" type="text/plain">
+{% assign schema = site.data.schema[page.page_key] %}
+<script type="application/ld+json">{{ schema | jsonify | replace: '<', '\u003c' }}</script>
