@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://mestamedia.com/#organization",
+      "name": "Mesta Media",
+      "legalName": "Mesta Media Consulting",
+      "url": "https://mestamedia.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://mestamedia.com/assets/logo.png"
+      },
+      "founder": {
+        "@id": "https://mestamedia.com/#brandi-mesta"
+      },
+      "email": "brandi@mestamedia.com",
+      "telephone": "+1-805-265-0069"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://mestamedia.com/#brandi-mesta",
+      "name": "Brandi Mesta",
+      "url": "https://mestamedia.com/#about",
+      "image": "https://mestamedia.com/assets/brandi-mesta.png",
+      "jobTitle": "Founder",
+      "worksFor": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/brandi-mesta-008b5a1b4/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://mestamedia.com/#website",
+      "url": "https://mestamedia.com/",
+      "name": "Mesta Media",
+      "publisher": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://mestamedia.com/#webpage",
+      "url": "https://mestamedia.com/",
+      "name": "Business Development & Brand Partnerships | Mesta Media",
+      "description": "Mesta Media helps media, events, and marketing businesses grow through business development, brand partnerships, positioning, and practical AI support.",
+      "isPartOf": {
+        "@id": "https://mestamedia.com/#website"
+      },
+      "about": {
+        "@id": "https://mestamedia.com/#organization"
+      },
+      "author": {
+        "@id": "https://mestamedia.com/#brandi-mesta"
+      },
+      "inLanguage": "en-US"
+    }
+  ]
+}
