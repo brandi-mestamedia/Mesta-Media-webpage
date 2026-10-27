@@ -1,4 +1,4 @@
-# The right support.For your next stage.
+# The right support. For your next stage.
 
 Business development, brand partnerships, and sales materials for businesses with something valuable to offer—and a need for experienced help bringing it to the right customers.
 
@@ -8,7 +8,7 @@ I work with businesses that need help reaching new customers, developing partner
 
 WHAT I OFFER
 
-## Experience thatmoves business.
+## Experience that moves business.
 
 ### Business development support
 
@@ -95,7 +95,7 @@ A defined workflow or digital resource, supporting instructions, and a walkthrou
 
 WAYS TO WORK TOGETHER
 
-## A focused project.Or ongoing support.
+## A focused project. Or ongoing support.
 
 ### A focused project
 
@@ -119,7 +119,7 @@ Book a Consultation
 
 LET’S START WITH WHAT’S POSSIBLE
 
-## What could yourbusiness become?
+## What could your business become?
 
 If business development keeps falling behind delivery, your proposals need a clearer message, or your client relationships deserve more attention, let’s talk.
 

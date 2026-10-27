@@ -1,4 +1,4 @@
-# Curiosity first.Purpose throughout.
+# Curiosity first. Purpose throughout.
 
 Understand the business. Recognize the opportunity. Do the work that helps people move forward.
 
@@ -6,7 +6,7 @@ Understand the business. Recognize the opportunity. Do the work that helps peopl
 
 HOW I THINK
 
-## Good questions.Meaningful next steps.
+## Good questions. Meaningful next steps.
 
 ### Get closer to the business.
 
@@ -40,7 +40,7 @@ I review the output against the business, the customer, and the purpose of the w
 
 LET’S START WITH WHAT’S POSSIBLE
 
-## What could yourbusiness become?
+## What could your business become?
 
 Let’s start with what you offer, what your customers need, and where you could use an experienced partner.
 

@@ -1,4 +1,4 @@
-# Make yourvalue matterto the right people.
+# Make your value matter to the right people.
 
 You have something worth building on. I help you reach the right customers, communicate what makes your business valuable, and develop relationships that lead to new business.
 
@@ -12,7 +12,7 @@ I help you reach the right customers, communicate your value, and move opportuni
 
 WHAT I BRING TO YOUR BUSINESS
 
-## Good instincts.Useful experience.
+## Good instincts. Useful experience.
 
 I combine sales experience, creative thinking, and hands-on execution to help you develop new business and grow the relationships you already have.
 
@@ -58,7 +58,7 @@ When your team needs a repeatable process, I can build a defined workflow for ta
 
 WHERE THE PIECES COME TOGETHER
 
-## I understand your business.I build relationships with the right people.I connect the two.
+## I understand your business. I build relationships with the right people. I connect the two.
 
 Developing business starts with understanding what you offer and finding the people who have a reason to care.
 
@@ -68,7 +68,7 @@ FROM THE FIRST CONVERSATION
 
 A prospective customer needs a reason to engage and a clear next step. I help connect their priorities with your offering, prepare the proposal, and keep the conversation moving toward a decision.
 
-## Growth is builtone relationship at a time.
+## Growth is built one relationship at a time.
 
 There is valuable work to do after an agreement. I help prepare client reviews, identify opportunities to expand an account, and develop renewal recommendations grounded in what the customer needs next.
 
@@ -92,7 +92,7 @@ Mesta Media brings those strengths together for media, events, and marketing bus
 
 LET’S START WITH WHAT’S POSSIBLE
 
-## What could yourbusiness become?
+## What could your business become?
 
 Tell me what you sell, who you want to reach, and where business development is getting difficult.
 
