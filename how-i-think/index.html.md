@@ -1,69 +1,53 @@
 # Curiosity first. Purpose throughout.
 
-Understand the business. Recognize the opportunity. Stay involved in the work that moves it forward.
+Understand the business. Recognize the opportunity. Do the work that helps people move forward.
 
-[Consultation](https://calendar.app.google/5fC59uDrS29p4c7d7)
+[Book a Consultation](https://calendar.app.google/5fC59uDrS29p4c7d7)
 
-## Curiosity first. Purpose throughout.
+HOW I THINK
+
+## Good questions. Meaningful next steps.
 
 ### Get closer to the business.
 
-Before recommending a direction, I want to understand what you’re trying to grow, what’s getting in the way, and what your customers actually care about.
+Before recommending an approach, I want to understand what you sell, who buys it, and why they choose you.
+
+I ask about recent sales conversations, the questions customers raise, the opportunities that stall, and the accounts that keep coming back. Those details help us identify where support will be most useful.
 
 ### Find the connection.
 
-Between a product and a need. A company and a potential partner. A good idea and a better way to communicate it. That’s where I tend to see opportunity.
+An opportunity needs a reason to exist.
+
+I look for the connection between a customer’s problem and your offering, or between two businesses that could create value together. That connection guides the outreach, the recommendation, and the conversation.
 
 ### Make it usable.
 
-A strategy should lead somewhere. I turn the thinking into an approach, a conversation, a proposal, or a digital resource your team can put to work.
+You should be able to put the work into practice.
 
-## Experience that moves business.
+That may mean a clearer presentation, a proposal for a specific account, a plan for a renewal conversation, or a repeatable way to prepare for meetings. I develop the thinking and help turn it into something your business can use.
 
-### Business development support
+### Follow through.
 
-For publishers, event companies, and marketing businesses with established offerings that need help developing clients. I support prospect research, outreach, discovery conversations, tailored recommendations, proposals, and negotiation.
+Relationships develop through attention.
 
-What we work toward: relevant opportunities and a clear path through the sales conversation.
+I keep track of questions, commitments, and next steps so the work continues beyond the introduction or presentation. What we learn from those conversations informs the next recommendation.
 
-### Partnership & account growth
+### Use technology with judgment.
 
-For businesses that want to deepen client relationships or develop new partnerships. I help clarify shared objectives, identify opportunities to expand the relationship, and prepare renewal and partnership recommendations.
+I use AI to support research, explore ideas, organize information, and develop materials.
 
-What we work toward: stronger relationships with a clearer reason to keep working together.
+I review the output against the business, the customer, and the purpose of the work. The tools help me prepare and create; I remain responsible for the recommendation I bring to you.
 
-### Positioning & sales materials
-
-For teams whose offering needs a clearer explanation or a stronger presentation. I develop B2B messaging, sales presentations, media kits, reusable proposal frameworks, and interactive HTML proposals.
-
-What you receive: agreed sales materials built around your offering and the customer’s priorities.
-
-### Practical AI & digital support
-
-For teams looking to make research, communication, and sales preparation more useful. I develop prompts and repeatable workflows, organize information, and build HTML materials to support the way your team works.
-
-What you receive: a defined workflow or digital resource, with a walkthrough of how to use it.
-
-## A focused project. Or ongoing support.
-
-Bring me in for a specific presentation, proposal, or positioning project—or for ongoing help developing business and client relationships.
-
-We start by discussing your priorities, existing offering, and the support you need. From there, we agree on responsibilities, deliverables, timing, and compensation before work begins.
-
-## A relationship builder. A creative thinker. A person who gets involved.
-
-I’ve built my career by listening, recognizing possibilities, and turning relationships into lasting business. My experience spans sales, account development, brand partnerships, and media, with an understanding of how to navigate niche, highly regulated, and mainstream markets. I know how to adjust the conversation, build trust, and develop opportunities across different business environments.
-
-I’m drawn to the space between strategy and execution. I like asking the question that makes an idea clearer, finding a connection someone hasn’t considered, and building something that helps a conversation move forward.
-
-Mesta Media brings those strengths together for media, events, and marketing businesses that need an experienced partner in developing clients and growing relationships.
-
-[More about my background on LinkedIn](https://www.linkedin.com/in/brandi-mesta-008b5a1b4/)
+LET’S START WITH WHAT’S POSSIBLE
 
 ## What could your business become?
 
-If you’re exploring new business, strengthening your positioning, or looking for a fresh commercial perspective, I’d love to hear what you’re working on.
+Let’s start with what you offer, what your customers need, and where you could use an experienced partner.
 
-[Consultation](https://calendar.app.google/5fC59uDrS29p4c7d7)  [brandi@mestamedia.com](mailto:brandi@mestamedia.com)
+[Explore What I Offer](/what-i-offer/)
+
+[Book a Consultation](https://calendar.app.google/5fC59uDrS29p4c7d7)
+
+[brandi@mestamedia.com](mailto:brandi@mestamedia.com)
 
 [805-265-0069](tel:+18052650069)
