@@ -13,3 +13,18 @@ const tabs=[...document.querySelectorAll('[role="tab"]')];
  const copy=document.getElementById('copy-email');if(copy)copy.addEventListener('click',async()=>{try{await navigator.clipboard.writeText('brandi@mestamedia.com');document.getElementById('copy-status').textContent='Email address copied.'}catch{document.getElementById('copy-status').textContent='brandi@mestamedia.com'}});
  document.querySelectorAll('.reveal').forEach(x=>x.classList.add('visible'));
 
+
+// Track clicks to the Google Calendar booking page across the site.
+document.addEventListener('click', (event) => {
+  const link = event.target.closest('a[href]');
+  if (!link) return;
+  try {
+    const url = new URL(link.href, window.location.href);
+    if (url.hostname === 'calendar.app.google' && typeof window.gtag === 'function') {
+      window.gtag('event', 'calendar_click', {
+        link_url: url.href,
+        page_location: window.location.href
+      });
+    }
+  } catch (_) { /* Ignore malformed links. */ }
+});
