@@ -1,6 +1,6 @@
 # Make your value matter to the right people.
 
-I’m Brandi Mesta, and I run Mesta Media, an independent business development and brand partnerships consultancy. I help media, events, and marketing businesses reach the right customers, communicate their value, and build relationships that lead to new business.
+I’m Brandi Mesta, and I run Mesta Media, an independent business development and brand partnerships consultancy serving businesses across the United States. I help media, events, and marketing businesses reach the right customers, communicate their value, and build relationships that lead to new business.
 
 [Let’s Talk](https://calendar.app.google/5fC59uDrS29p4c7d7)
 
