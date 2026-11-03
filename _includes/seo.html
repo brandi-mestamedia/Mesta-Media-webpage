@@ -6,6 +6,12 @@ Validation requires exactly one application/ld+json script per built page.
 {%- capture generated_seo -%}{% seo %}{%- endcapture -%}
 {{ generated_seo | split: '<script type="application/ld+json">' | first }}
 <!-- End Jekyll SEO metadata -->
+<meta name="twitter:description" content="{{ page.description | escape }}">
+{% case page.page_key %}
+{% when 'home' %}<meta name="keywords" content="business development consultant for media companies, brand partnerships consulting, media sales strategy">
+{% when 'offer' %}<meta name="keywords" content="B2B business development services, partnership growth consulting, sales proposal development, practical AI sales workflows">
+{% when 'thinking' %}<meta name="keywords" content="consultative business development approach, partnership strategy process, sales positioning methodology">
+{% endcase %}
 <meta name="robots" content="index,follow,max-image-preview:large">
 <link rel="alternate" type="text/markdown" href="{{ page.markdown_url | absolute_url }}" title="Markdown version">
 <link rel="describedby" href="{{ '/llms.txt' | absolute_url }}" type="text/plain">
