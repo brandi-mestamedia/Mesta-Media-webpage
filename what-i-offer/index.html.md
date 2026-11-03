@@ -10,6 +10,8 @@ WHAT I OFFER
 
 ## Experience that moves business.
 
+<a id="business-development"></a>
+
 ### Business development support
 
 When you need someone to give new business consistent attention.
@@ -30,6 +32,8 @@ How I help
 What you receive
 
 An agreed account focus, outreach approach, opportunity tracking, and hands-on support with the sales activities included in our scope.
+
+<a id="partnerships"></a>
 
 ### Partnership & account growth
 
@@ -52,6 +56,8 @@ What you receive
 
 Account development plans, renewal recommendations, or a defined partnership proposal, depending on the engagement.
 
+<a id="positioning"></a>
+
 ### Positioning & sales materials
 
 When customers need a clearer explanation of what you do and why it matters.
@@ -72,6 +78,8 @@ How I help
 What you receive
 
 The agreed presentation, messaging, or proposal resources, ready for your team to use and maintain.
+
+<a id="ai-digital"></a>
 
 ### Practical AI & digital support
 
