@@ -1,6 +1,6 @@
 # Make your value matter to the right people.
 
-You have something worth building on. I help you reach the right customers, communicate what makes your business valuable, and develop relationships that lead to new business.
+I’m Brandi Mesta, and I run Mesta Media, an independent business development and brand partnerships consultancy. I help media, events, and marketing businesses reach the right customers, communicate their value, and build relationships that lead to new business.
 
 [Let’s Talk](https://calendar.app.google/5fC59uDrS29p4c7d7)
 
@@ -26,6 +26,8 @@ The work includes prospect research, outreach, sales conversations, proposals, f
 - Prospect research
 - Consultative sales
 
+[Explore this service](https://mestamedia.com/what-i-offer/#business-development)
+
 ### There’s more value in a relationship when you understand what matters.
 
 I help you give existing clients and potential partners more focused attention. We review their priorities, explore unmet needs, and identify practical reasons to expand or continue working together.
@@ -35,6 +37,8 @@ For new partnerships, I help define what each business contributes, why the rela
 - Brand partnerships
 - Account growth
 - Client retention
+
+[Explore this service](https://mestamedia.com/what-i-offer/#partnerships)
 
 ### Give people a clearer reason to choose you.
 
@@ -46,6 +50,8 @@ Then I turn that thinking into useful sales materials: presentations, media kits
 - Sales presentations
 - Proposal development
 
+[Explore this service](https://mestamedia.com/what-i-offer/#positioning)
+
 ### Make new technology useful to you.
 
 I use AI and digital tools to support prospect research, organize information, prepare communications, and develop sales materials.
@@ -55,6 +61,8 @@ When your team needs a repeatable process, I can build a defined workflow for ta
 - Advanced AI prompting
 - AI workflow development
 - HTML & interactive proposals
+
+[Explore this service](https://mestamedia.com/what-i-offer/#ai-digital)
 
 WHERE THE PIECES COME TOGETHER
 
